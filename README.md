@@ -10,7 +10,6 @@ Recebemos o projeto **AluraPlay**, uma plataforma de vídeos que possui um layou
 - **Layout flexível para vídeos**: Aplicação do Flexbox para organizar os vídeos de maneira adaptativa e eficiente, independente do tamanho da tela.
 - **Menus flexíveis**: Implementação de menus que utilizam propriedades do Flexbox para ajustar sua exibição conforme o tamanho da tela.
 
-Acesse o **AluraPlay** clicando [aqui ](https://challenge-decodificador-kappa.vercel.app/).
-
+Acesse o **AluraPlay** clicando [aqui ](https://projeto-base-alura-play.vercel.app/).
 
 
